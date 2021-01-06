@@ -1,7 +1,5 @@
 # A Simple CRUD REST API with Ruby on Rails
 
-Things you may want to cover:
-
 * Ruby version:
 Ruby 3.0.0p0
 
@@ -9,14 +7,15 @@ Ruby 3.0.0p0
 
 <!-- * Configuration: -->
 
-* Database setup:
+* Usage:
 
     `bundle install`
 
     `rake db:create`
     
     `rake db:seed`
-
+    
+    `rails s`
 
 <!-- * How to run the test suite -->
 

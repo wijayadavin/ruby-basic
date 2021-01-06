@@ -22,3 +22,9 @@ Ruby 3.0.0p0
 <!-- * Services (job queues, cache servers, search engines, etc.) -->
 
 <!-- * Deployment instructions -->
+
+* Database credentials:
+
+    `username: postgres`
+
+    `password: admin`

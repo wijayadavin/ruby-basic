@@ -1,7 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# A Simple CRUD REST API with Ruby on Rails
 
 Things you may want to cover:
 

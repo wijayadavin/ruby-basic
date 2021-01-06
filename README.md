@@ -1,7 +1,11 @@
 # A Simple CRUD REST API with Ruby on Rails
 
 * Ruby version:
-Ruby 3.0.0p0
+Ruby 3.0.0
+
+    `rvm install ruby-3.0.0`
+
+    `rvm use ruby-3.0.0`
 
 <!-- * System dependencies: -->
 

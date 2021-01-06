@@ -14,9 +14,11 @@ Ruby 3.0.0p0
 
 * Database setup:
 
-    `bundle exec rake db:reset`
+    `bundle install`
 
-    `bundle exec rake db:fixtures:load`
+    `rake db:create`
+    
+    `rake db:seed`
 
 
 <!-- * How to run the test suite -->
